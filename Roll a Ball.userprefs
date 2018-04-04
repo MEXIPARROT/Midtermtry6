@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ingamescript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="52" Column="5" />
+      <File FileName="Assets\Scripts\menuScript.cs" Line="51" Column="3" />
+      <File FileName="Assets\playerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\RigiController.cs" Line="1" Column="1" />
+      <File FileName="Assets\inGameMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ingamescript.cs" Line="5" Column="44" />
+      <File FileName="Assets\Ingame_menu.cs" Line="9" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
